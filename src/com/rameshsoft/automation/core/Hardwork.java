@@ -6,5 +6,7 @@ public class Hardwork {
 		System.out.println("Hardwork");
 	}
 	
-	
+	public void job() {
+		System.out.println("JOB");
+	}
 }
