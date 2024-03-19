@@ -8,5 +8,7 @@ public class HardworkJobProg {
 	
 	public void job() {
 		System.out.println("JOB");
+System.out.println("JOB456");
+System.out.println("JOB456456");
 	}
 }
