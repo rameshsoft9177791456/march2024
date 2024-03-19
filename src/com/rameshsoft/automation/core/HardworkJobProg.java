@@ -9,5 +9,7 @@ System.out.println("Hardwork456");
 	
 	public void job() {
 		System.out.println("JOB");
+System.out.println("JOB456");
+System.out.println("JOB456456");
 	}
 }
